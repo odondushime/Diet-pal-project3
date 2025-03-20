@@ -83,7 +83,7 @@ netlify deploy --prod
 MIT License
 
 ## Contributors
-- **Your Name** dushimeodon14@gmail.com
+- **Your Name** (would not put my email here)
 
 ---
 
